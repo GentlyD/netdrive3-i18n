@@ -15,7 +15,7 @@ msgstr "Laufwerk hinzufügen"
 #: ../../NetDriveUI/adddrive.ui:127
 msgctxt "AddDrive|"
 msgid "STORAGE TYPE"
-msgstr "LAUFWERKS TYP"
+msgstr "ART DES SPEICHERS"
 
 #: ../../NetDriveUI/adddrive.ui:196
 msgctxt "AddDrive|"
@@ -30,7 +30,7 @@ msgstr "OPTIONEN"
 #: ../../NetDriveUI/adddrive.ui:218
 msgctxt "AddDrive|"
 msgid "Save authentication information"
-msgstr "Authentifizierungsdaten merken"
+msgstr "Authentifizierungsdaten speichern"
 
 #: ../../NetDriveUI/adddrive.ui:257
 msgctxt "AddDrive|"
@@ -50,7 +50,7 @@ msgstr "NAME"
 #: ../../NetDriveUI/adddrive.ui:341
 msgctxt "AddDrive|"
 msgid "MOUNT"
-msgstr "EINHÄNGEN"
+msgstr "VERWENDEN"
 
 #: ../../NetDriveUI/adddrive.ui:358
 msgctxt "AddDrive|"
@@ -60,22 +60,22 @@ msgstr "als"
 #: ../../NetDriveUI/adddrive.ui:386
 msgctxt "AddDrive|"
 msgid "AUTO CONNECT OPTIONS"
-msgstr "AUTOMATISCHE VERBINDUNG"
+msgstr "AUSWAHL AUTOMATISCHER VERBINDUNGEN"
 
 #: ../../NetDriveUI/adddrive.ui:392
 msgctxt "AddDrive|"
 msgid "No automatic mount"
-msgstr "Kein automatisches Einhängen"
+msgstr "Laufwerk nicht automatisch verwenden"
 
 #: ../../NetDriveUI/adddrive.ui:405
 msgctxt "AddDrive|"
 msgid "Mount on boot"
-msgstr "Einhängen bei Systemstart"
+msgstr "Laufwerk beim Systemstart verwenden"
 
 #: ../../NetDriveUI/adddrive.ui:412
 msgctxt "AddDrive|"
 msgid "Mount on login"
-msgstr "Einhängen bei Login"
+msgstr "Laufwerk beim Anmelden verwenden"
 
 #: ../../NetDriveUI/adddrive.ui:422
 msgctxt "AddDrive|"
@@ -95,17 +95,17 @@ msgstr "Hochladen im Hintergrund verwenden"
 #: ../../NetDriveUI/adddrive.ui:451
 msgctxt "AddDrive|"
 msgid "READ ONLY OPTIONS"
-msgstr "LAUFWERKS-BERECHTIGUNGEN"
+msgstr "LAUFWERKSZUGRIFF NUR LESEN OPTIONEN"
 
 #: ../../NetDriveUI/adddrive.ui:457
 msgctxt "AddDrive|"
 msgid "Writable drive"
-msgstr "Lesen und Schreiben"
+msgstr "Laufwerk mit Schreibberechtigung"
 
 #: ../../NetDriveUI/adddrive.ui:467
 msgctxt "AddDrive|"
 msgid "Read only drive"
-msgstr "Nur Lesen"
+msgstr "Laufwerk nur mit Leseberechtigung"
 
 #: ../../NetDriveUI/adddrive.ui:477
 msgctxt "AddDrive|"
@@ -120,17 +120,17 @@ msgstr "Immer Dateiliste vom Server abrufen"
 #: ../../NetDriveUI/adddrive.ui:511
 msgctxt "AddDrive|"
 msgid "As a global drive"
-msgstr ""
+msgstr "Als globales Laufwerk"
 
 #: ../../NetDriveUI/adddrive.ui:518
 msgctxt "AddDrive|"
 msgid "Prevent uploading of temporary MS Office files"
-msgstr ""
+msgstr "Hochladen temporärer MS Office Dateien verhindern"
 
 #: ../../NetDriveUI/adddrive.ui:525
 msgctxt "AddDrive|"
 msgid "Prevent uploading of temporary HWP files (*.$$$, *.BAK)"
-msgstr ""
+msgstr "Hochladen temporärer HWP Dateien (*.$$$, *.BAK) verhindern"
 
 #: ../../NetDriveUI/adddrive.ui:532
 msgctxt "AddDrive|"
